@@ -477,12 +477,13 @@
   
   .hero-banner {
     max-width: 500px;
-    width: 125%;
+    width: 110%;
+    background-color: red;
     margin-bottom: 30px;
   }
   
-  :is(.hero-social-list, .scroll-down) { display: none; }
-  
+  /* :is(.hero-social-list, .scroll-down) { display: none; }
+   */
   .hero-content { max-width: 450px; }
   
   .hero-title {

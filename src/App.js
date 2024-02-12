@@ -12,10 +12,12 @@ import Hero from "./Component/Hero";
 
 export default function App() {
   return (
-    <div id="top" classNameName="dark_theme">
+    <div id="top" className="dark_theme">
       <Head />
       <div className="container">
+      <About></About>
       <Stats />
+
       <Skills />
       <Contact />
       </div>

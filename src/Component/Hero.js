@@ -18,7 +18,7 @@ function Hero() {
           <a href="#contact" className="btn btn-primary">Get in touch</a>
         </div>
 
-        <ul className="hero-social-list">
+        <ul className="">
           <li>
             <a href="#" className="hero-social-link">
               <ion-icon name="logo-facebook"></ion-icon>
